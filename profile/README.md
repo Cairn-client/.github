@@ -24,7 +24,6 @@ Cairn Client standardizes cooperative modding across different titles. Rather th
 | :--- | :--- |
 | **[`launcher`](https://github.com/Cairn-client/launcher)** | The core desktop client built with .NET 8 and Blazor / WebView2. |
 | **[`games`](https://github.com/Cairn-client/games)** | Central registry containing manifests, requirements, and checksums for all supported games. |
-| **[`mod-kcd2`](https://github.com/Cairn-client/mod-kcd2)** | Dedicated cooperative mod payload and hooks for *Kingdom Come: Deliverance II*. |
 
 ## Quick Start
 
